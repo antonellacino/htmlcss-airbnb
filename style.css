@@ -13,24 +13,27 @@
   background-image: url(img/roma.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 
 .copenaghen{
   background-image: url(img/copenaghen.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  color: blue;
 }
 
 .tokyo{
   background-image: url(img/tokyo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
 }
 
 .scritta{
   position: relative;
   text-align: center;
-  font-size: 50px;
+  font-size: 200px;
   height: 50%;
   top:50%;
 }
